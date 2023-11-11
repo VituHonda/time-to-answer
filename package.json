@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/VituHonda/time_to_answer.git",
   "author": "vituhonda <vitorutk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "chart.js": "2.9.4",
+    "datatables": "^1.10.18",
+    "font-awesome": "^4.7.0",
+    "jquery": "3.6.0",
+    "popper.js": "^1.16.1"
+  }
 }
